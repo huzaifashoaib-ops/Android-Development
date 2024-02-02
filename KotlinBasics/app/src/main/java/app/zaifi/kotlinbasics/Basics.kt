@@ -20,10 +20,10 @@ fun main() {
 
     print("The first character in the string is $firstCharInString and the length of the string is ${myStr.length}. The complete string is $myStr")
 
-//    print("Hello $myByte\n")
-//    print("Hello $myLong\n")
-//    print("Hello $myShort\n")
-//    print("Hello $myInt\n")
+    print("Hello $myByte\n")
+    print("Hello $myLong\n")
+    print("Hello $myShort\n")
+    print("Hello $myInt\n")
 
 
     /* there are 2 kinds of keywords in kotlin to assign variables, 1 is the val keyword which makes the
