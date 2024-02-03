@@ -116,13 +116,13 @@ fun main() {
 //    }
 
 //    FOR loop
-    for (i in 10 downTo 1 step 2) { //same as -> for(i in 10.downTo(1).step(2)
-        print("$i ")
-    }
-    print("\n")
-    for (i in 1 until 10) {
-        print("$i ")
-    }
+//    for (i in 10 downTo 1 step 2) { //same as -> for(i in 10.downTo(1).step(2))
+//        print("$i ")
+//    }
+//    print("\n")
+//    for (i in 1 until 10) {  //same as -> for(i in 1.until(10))
+//        print("$i ")
+//    }
 
 
     /* there are 2 kinds of keywords in kotlin to assign variables, 1 is the val keyword which makes the
